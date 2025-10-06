@@ -36,7 +36,7 @@ ChartJS
 
 ### Clone the repository:
 
-git clone https://github.com/SuryaR1807/BAD-BANK/project.git
+git clone https://github.com/SuryaR1807/BAD-BANK
 
 
 ### Navigate into the project directory:
@@ -94,4 +94,5 @@ Student at MIT Fullstack Development with MERN
 ## 📄 License
 
 This project is licensed under the MIT License.
+
 
